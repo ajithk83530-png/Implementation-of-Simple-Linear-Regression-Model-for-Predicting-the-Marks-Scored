@@ -114,10 +114,13 @@ Actual values:
 ~~~
 <img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/69894b86-7747-4e07-a04c-2f4b21ff8ba3" />
 <img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/de7c2822-c759-4655-97e9-064a2e01b0a0" />
+
 ~~~
+
 Mean Squared Error (MSE) = 25.463280738222547
 Mean Absolute Error (MAE) = 4.691397441397438
 Root Mean Squared Error (RMSE) = 5.046115410711743
+
 ~~~
 
 
