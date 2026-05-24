@@ -23,7 +23,7 @@ Developed by: Ajithkumar J
 RegisterNumber: 212225040015 
 */
 ```
-~~~
+```python
 # Importing necessary libraries
 import pandas as pd
 import numpy as np
@@ -89,7 +89,7 @@ rmse = np.sqrt(mse)
 print('Mean Squared Error (MSE) =', mse)
 print('Mean Absolute Error (MAE) =', mae)
 print('Root Mean Squared Error (RMSE) =', rmse)
-~~~
+```
 
 ## Output:
 ~~~
